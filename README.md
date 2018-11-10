@@ -1,2 +1,2 @@
-# Assignment2-poojakulkarni
+# Assignment2
 Assignment 2
